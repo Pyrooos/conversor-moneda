@@ -1,4 +1,7 @@
 # Conversor de Monedas
+<p align="center">
+  <img src="/Images/Badge-Conversor.png" alt="badge">
+</p>
 
 Este es un proyecto Java que permite convertir cantidades entre diferentes monedas utilizando la API de ExchangeRate-API. El usuario puede seleccionar la divisa de origen y la divisa de destino, así como la cantidad a convertir. El programa muestra las divisas soportadas por la API para que el usuario pueda elegir su moneda o divisa.
 
