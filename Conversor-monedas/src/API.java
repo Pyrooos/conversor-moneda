@@ -12,7 +12,7 @@ import java.util.List;
 
 public class API {
     private static final String URL_BASE = "https://v6.exchangerate-api.com/v6/";
-    private static final String API_KEY = "YOUR_API_KEY";
+    private static final String API_KEY = "870a5457fda0efaaca974f8b";
 
     public static JsonObject obtenerDatos(String DivisaOrigen, String divisaDestino) throws Exception {
         String urlFinal = URL_BASE + API_KEY + "/pair/" + DivisaOrigen+ "/" + divisaDestino;
